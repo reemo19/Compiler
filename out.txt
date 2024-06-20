@@ -1,0 +1,57 @@
+﻿Value of your print is : 30
+
+ ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡>>-Print-<<♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡ 
+
+Value of your print is : 60
+
+ ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡>>-Print-<<♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡ 
+
+Hello from True_IF_Else ,we in IF value : 50
+
+ ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡>>-IF-<<♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡ 
+
+Hello from IF_True_Else ,we in Else 
+
+ ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡>>-IF-<<♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡ 
+
+while Loop
+ While Loop 4:60
+ While Loop 3:60
+ While Loop 2:60
+ While Loop 1:60
+
+ ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡>>-While-<<♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡ 
+
+Hello from for loop 1 : 10
+
+Hello from for loop 2 : 10
+
+Hello from for loop 3 : 10
+
+Hello from for loop 4 : 10
+
+Hello from for loop 5 : 10
+
+ ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡>>-For-<<♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡ 
+
+Hello from for { loop } 1 : 50
+
+Hello from for { loop } 2 : 50
+
+Hello from for { loop } 3 : 50
+
+Hello from for { loop } 4 : 50
+
+Hello from for { loop } 5 : 50
+
+ ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡>>-For-<<♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡ 
+
+Value of your print is : 10
+
+ ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡>>-Print-<<♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡ 
+
+Uncorrect condition in { Multi_IF }
+
+ ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡>>-IF-<<♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡ 
+
+EL_FLAHEEN *_*

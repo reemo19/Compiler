@@ -1,0 +1,46 @@
+int A=10;
+int R=20;
+int Sh=30;
+int N=40;
+int A2=50;
+int Sh2=60;
+int i=0;
+
+
+print(Sh);
+print(Sh2);
+
+
+if (A2>A)
+print(A2);
+else
+print(A);
+
+
+if(R>N)
+R=R/10;
+else
+N=N/2;
+
+while (N)
+{print(Sh2);}
+
+
+for(i;i<A2/10;i++)
+print(A);
+
+
+for(i;i<A2/10;i++)
+{print(A2);}
+
+int Nv=Sh2 - Sh*2 + A ;
+print(Nv);
+
+if(Nv>A2)
+{
+Nv=9;
+A=6;
+}
+
+
+
